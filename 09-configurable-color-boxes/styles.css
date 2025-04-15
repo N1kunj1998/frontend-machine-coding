@@ -1,0 +1,11 @@
+.box {
+    height: 100px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
